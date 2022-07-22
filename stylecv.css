@@ -1,0 +1,35 @@
+body{
+    font-family: Gilroy, Arial, Helvetica, sans-serif;
+}
+.page{
+    max-width:1000px;
+    border-top:15px solid #005889;
+    padding: 20px 50px;
+     margin-left:auto;
+    margin-right:auto;
+}
+header h3{
+    margin:0 0 5px 0;
+    padding:0;
+}
+header h3, .objective p{
+    text-indent: 50px;
+}
+header h3 span, header h3 a{
+    font-weight: normal;
+}
+ul{
+    margin-left:30px;
+}
+li{
+    margin-bottom:30px;
+}
+li span{
+    color:#005889;
+}
+h2{
+    color:#005889;
+}
+div{
+    margin-bottom:10px;
+}
